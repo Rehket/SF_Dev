@@ -1,300 +1,192 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Case</members>
-        <members>Lead</members>
+        <members>*</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexComponent</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexTestSuite</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApprovalProcess</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>AssignmentRules</name>
     </types>
     <types>
-        <members>Form_Card</members>
-        <members>Lead_Form</members>
-        <members>Test_Component</members>
+        <members>*</members>
         <name>AuraDefinitionBundle</name>
     </types>
     <types>
-        <members>Internal Zone</members>
+        <members>*</members>
+        <name>CallCenter</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>Community</name>
     </types>
     <types>
-        <members>Lead_Form</members>
-        <members>standard__AppLauncher</members>
-        <members>standard__Chatter</members>
-        <members>standard__Community</members>
-        <members>standard__Content</members>
-        <members>standard__LightningSales</members>
-        <members>standard__LightningSalesConsole</members>
-        <members>standard__LightningService</members>
-        <members>standard__Marketing</members>
-        <members>standard__Platform</members>
-        <members>standard__Sales</members>
-        <members>standard__Service</members>
-        <members>standard__ServiceConsole</members>
-        <members>standard__Sites</members>
+        <members>*</members>
+        <name>CommunityTemplateDefinition</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CommunityThemeDefinition</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ConnectedApp</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>CustomApplication</name>
     </types>
     <types>
-        <members>CustomLabels</members>
+        <members>*</members>
         <name>CustomLabels</name>
     </types>
     <types>
-        <members>Account</members>
-        <members>AccountCleanInfo</members>
-        <members>AccountContactRole</members>
-        <members>Activity</members>
-        <members>Asset</members>
-        <members>AssetRelationship</members>
-        <members>AssistantProgress</members>
-        <members>Campaign</members>
-        <members>CampaignMember</members>
-        <members>Case</members>
-        <members>CaseContactRole</members>
-        <members>CollaborationGroup</members>
-        <members>CollaborationGroupMember</members>
-        <members>Contact</members>
-        <members>ContactCleanInfo</members>
-        <members>ContentVersion</members>
-        <members>Contract</members>
-        <members>ContractContactRole</members>
-        <members>DandBCompany</members>
-        <members>DuplicateRecordItem</members>
-        <members>DuplicateRecordSet</members>
-        <members>EmailMessage</members>
-        <members>Event</members>
-        <members>ExchangeUserMapping</members>
-        <members>FeedItem</members>
-        <members>ForecastingCategoryMapping</members>
-        <members>Idea</members>
-        <members>Lead</members>
-        <members>LeadCleanInfo</members>
-        <members>Macro</members>
-        <members>MacroAction</members>
-        <members>MacroInstruction</members>
-        <members>Opportunity</members>
-        <members>OpportunityCompetitor</members>
-        <members>OpportunityContactRole</members>
-        <members>OpportunityLineItem</members>
-        <members>Order</members>
-        <members>OrderItem</members>
-        <members>OrgDeleteRequest</members>
-        <members>PartnerRole</members>
-        <members>Pricebook2</members>
-        <members>PricebookEntry</members>
-        <members>Product2</members>
-        <members>QuickText</members>
-        <members>Scorecard</members>
-        <members>ScorecardAssociation</members>
-        <members>ScorecardMetric</members>
-        <members>Site</members>
-        <members>SocialPersona</members>
-        <members>Solution</members>
-        <members>StreamingChannel</members>
-        <members>Task</members>
-        <members>Topic</members>
-        <members>TopicAssignment</members>
-        <members>User</members>
-        <members>UserProvisioningRequest</members>
+        <members>*</members>
+        <name>CustomMetadata</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>CustomObject</name>
     </types>
     <types>
-        <members>Lead_Form</members>
+        <members>*</members>
+        <name>CustomObjectTranslation</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomPermission</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomSite</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>CustomTab</name>
     </types>
     <types>
-        <members>Lead_Form</members>
-        <members>Lead_Form_UtilityBar</members>
-        <members>Lead_Record_Page</members>
-        <members>LightningSalesConsole_UtilityBar</members>
-        <members>LightningService_UtilityBar</members>
+        <members>*</members>
         <name>FlexiPage</name>
     </types>
     <types>
-        <members>DE Default</members>
+        <members>*</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>FlowDefinition</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>GlobalValueSet</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Group</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>HomePageComponent</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>HomePageLayout</name>
     </types>
     <types>
-        <members>Account-Account %28Marketing%29 Layout</members>
-        <members>Account-Account %28Sales%29 Layout</members>
-        <members>Account-Account %28Support%29 Layout</members>
-        <members>Account-Account Layout</members>
-        <members>Asset-Asset Layout</members>
-        <members>AssetRelationship-Asset Relationship Layout</members>
-        <members>Campaign-Campaign Layout</members>
-        <members>CampaignMember-Campaign Member Page Layout</members>
-        <members>Case-Case %28Marketing%29 Layout</members>
-        <members>Case-Case %28Sales%29 Layout</members>
-        <members>Case-Case %28Support%29 Layout</members>
-        <members>Case-Case Layout</members>
-        <members>CaseClose-Close Case Layout</members>
-        <members>Contact-Contact %28Marketing%29 Layout</members>
-        <members>Contact-Contact %28Sales%29 Layout</members>
-        <members>Contact-Contact %28Support%29 Layout</members>
-        <members>Contact-Contact Layout</members>
-        <members>ContentVersion-Content Version Layout</members>
-        <members>Contract-Contract Layout</members>
-        <members>DandBCompany-D%26B Company Layout</members>
-        <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
-        <members>EmailMessage-Email Message Layout</members>
-        <members>Event-Event Layout</members>
-        <members>FeedItem-Feed Item Layout</members>
-        <members>Global-Global Layout</members>
-        <members>Idea-Idea Layout</members>
-        <members>Lead-Lead %28Marketing%29 Layout</members>
-        <members>Lead-Lead %28Sales%29 Layout</members>
-        <members>Lead-Lead %28Support%29 Layout</members>
-        <members>Lead-Lead Layout</members>
-        <members>Macro-Macro Layout</members>
-        <members>Opportunity-Opportunity %28Marketing%29 Layout</members>
-        <members>Opportunity-Opportunity %28Sales%29 Layout</members>
-        <members>Opportunity-Opportunity %28Support%29 Layout</members>
-        <members>Opportunity-Opportunity Layout</members>
-        <members>OpportunityLineItem-Opportunity Product Layout</members>
-        <members>Order-Order Layout</members>
-        <members>OrderItem-Order Product Layout</members>
-        <members>Pricebook2-Price Book Layout</members>
-        <members>PricebookEntry-Price Book Entry Layout</members>
-        <members>Product2-Product Layout</members>
-        <members>QuickText-Quick Text Layout</members>
-        <members>Scorecard-Scorecard Layout</members>
-        <members>ScorecardAssociation-Scorecard Association Layout</members>
-        <members>ScorecardMetric-Scorecard Metric Layout</members>
-        <members>SocialPersona-Social Persona Layout</members>
-        <members>SocialPost-Social Post Layout</members>
-        <members>Solution-Solution Layout</members>
-        <members>Task-Task Layout</members>
-        <members>User-User Layout</members>
-        <members>UserProvAccount-User Provisioning Account Layout</members>
-        <members>UserProvisioningLog-User Provisioning Log Layout</members>
-        <members>UserProvisioningRequest-User Provisioning Request Layout</members>
+        <members>*</members>
+        <name>InstalledPackage</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>Layout</name>
     </types>
     <types>
-        <members>Admin</members>
-        <members>Analytics Cloud Integration User</members>
-        <members>Analytics Cloud Security User</members>
-        <members>Authenticated Website</members>
-        <members>Chatter External User</members>
-        <members>Chatter Free User</members>
-        <members>Chatter Moderator User</members>
-        <members>ContractManager</members>
-        <members>Cross Org Data Proxy User</members>
-        <members>Custom%3A Marketing Profile</members>
-        <members>Custom%3A Sales Profile</members>
-        <members>Custom%3A Support Profile</members>
-        <members>Customer Community Login User</members>
-        <members>Customer Community Plus Login User</members>
-        <members>Customer Community Plus User</members>
-        <members>Customer Community User</members>
-        <members>Customer Portal Manager Custom</members>
-        <members>Customer Portal Manager Standard</members>
-        <members>External Identity User</members>
-        <members>Force%2Ecom - App Subscription User</members>
-        <members>Force%2Ecom - Free User</members>
-        <members>Gold Partner User</members>
-        <members>High Volume Customer Portal User</members>
-        <members>HighVolumePortal</members>
-        <members>Identity User</members>
-        <members>MarketingProfile</members>
-        <members>Partner App Subscription User</members>
-        <members>Partner Community Login User</members>
-        <members>Partner Community User</members>
-        <members>PlatformPortal</members>
-        <members>ReadOnly</members>
-        <members>Silver Partner User</members>
-        <members>SolutionManager</members>
-        <members>Standard</members>
-        <members>StandardAul</members>
-        <members>Work%2Ecom Only User</members>
+        <members>*</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>PlatformCachePartition</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Portal</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>PostTemplate</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>Profile</name>
     </types>
     <types>
-        <members>Case.LogACall</members>
-        <members>Case.NewChildCase</members>
-        <members>CollaborationGroup.NewGroupMember</members>
-        <members>CollaborationGroup.NewGroupRecord</members>
-        <members>FeedItem.NewTaskFromFeedItem</members>
-        <members>LogACall</members>
-        <members>NewAccount</members>
-        <members>NewCase</members>
-        <members>NewContact</members>
-        <members>NewEvent</members>
-        <members>NewGroup</members>
-        <members>NewLead</members>
-        <members>NewNote</members>
-        <members>NewOpportunity</members>
-        <members>NewTask</members>
-        <members>SendEmail</members>
-        <members>Task.Defer</members>
-        <members>Task.Defer_0</members>
-        <members>Task.EditDescription</members>
-        <members>Task.EditDescription_0</members>
-        <members>Task.UpdatePriority</members>
-        <members>Task.UpdatePriority_0</members>
-        <members>Task.UpdateStatus</members>
-        <members>Task.UpdateStatus_0</members>
+        <members>*</members>
+        <name>Queue</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>QuickAction</name>
     </types>
     <types>
-        <members>CEO</members>
-        <members>CFO</members>
-        <members>COO</members>
-        <members>ChannelSalesTeam</members>
-        <members>CustomerSupportInternational</members>
-        <members>CustomerSupportNorthAmerica</members>
-        <members>DirectorChannelSales</members>
-        <members>DirectorDirectSales</members>
-        <members>EasternSalesTeam</members>
-        <members>InstallationRepairServices</members>
-        <members>MarketingTeam</members>
-        <members>SVPCustomerServiceSupport</members>
-        <members>SVPHumanResources</members>
-        <members>SVPSalesMarketing</members>
-        <members>VPInternationalSales</members>
-        <members>VPMarketing</members>
-        <members>VPNorthAmericanSales</members>
-        <members>WesternSalesTeam</members>
+        <members>*</members>
+        <name>Report</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ReportType</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>Role</name>
     </types>
     <types>
-        <members>Account</members>
-        <members>Asset</members>
-        <members>Campaign</members>
-        <members>Case</members>
-        <members>Contact</members>
-        <members>Lead</members>
-        <members>Opportunity</members>
-        <members>Order</members>
-        <members>User</members>
+        <members>*</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>SharingRules</name>
     </types>
     <types>
-        <members>Account</members>
-        <members>Activities</members>
-        <members>Address</members>
-        <members>BusinessHours</members>
-        <members>Case</members>
-        <members>Company</members>
-        <members>Contract</members>
-        <members>Entitlement</members>
-        <members>FieldService</members>
-        <members>FileUploadAndDownloadSecurity</members>
-        <members>Forecasting</members>
-        <members>Ideas</members>
-        <members>Knowledge</members>
-        <members>LiveAgent</members>
-        <members>Macro</members>
-        <members>Mobile</members>
-        <members>Name</members>
-        <members>Opportunity</members>
-        <members>Order</members>
-        <members>OrgPreference</members>
-        <members>PathAssistant</members>
-        <members>PersonalJourney</members>
-        <members>Product</members>
-        <members>Quote</members>
-        <members>Search</members>
-        <members>Security</members>
-        <members>SocialCustomerService</members>
-        <name>Settings</name>
+        <members>*</members>
+        <name>SharingSet</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>SiteDotCom</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>StaticResource</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Translations</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Workflow</name>
     </types>
     <version>42.0</version>
 </Package>

@@ -2,53 +2,53 @@
 <module type="salesforce.module" version="4">
   <component name="ComponentSet">
     <type2Names>
-      <SFMetaTypeNamesState type="QUEUE" setAll="true" />
-      <SFMetaTypeNamesState type="APEX_CLASS" setAll="true" />
-      <SFMetaTypeNamesState type="CUSTOM_APPLICATION" setAll="true" />
-      <SFMetaTypeNamesState type="INSTALLED_PACKAGE" setAll="true" />
-      <SFMetaTypeNamesState type="APPROVAL_PROCESS" setAll="true" />
-      <SFMetaTypeNamesState type="CALL_CENTER" setAll="true" />
-      <SFMetaTypeNamesState type="GLOBAL_VALUE_SET" setAll="true" />
-      <SFMetaTypeNamesState type="FLEXI_PAGE" setAll="true" />
-      <SFMetaTypeNamesState type="REPORT" setAll="true" />
-      <SFMetaTypeNamesState type="CUSTOM_OBJECT" setAll="true" />
-      <SFMetaTypeNamesState type="APEX_TEST_SUITE" setAll="true" />
-      <SFMetaTypeNamesState type="CUSTOM_SITE" setAll="true" />
-      <SFMetaTypeNamesState type="CUSTOM_PERMISSION" setAll="true" />
-      <SFMetaTypeNamesState type="CUSTOM_TAB" setAll="true" />
-      <SFMetaTypeNamesState type="LIGHTNING_BUNDLE" setAll="true" />
-      <SFMetaTypeNamesState type="LAYOUT" setAll="true" />
-      <SFMetaTypeNamesState type="STATIC_RESOURCE" setAll="true" />
-      <SFMetaTypeNamesState type="SHARING_RULES" setAll="true" />
-      <SFMetaTypeNamesState type="CONNECTED_APP" setAll="true" />
-      <SFMetaTypeNamesState type="TRANSLATIONS" setAll="true" />
-      <SFMetaTypeNamesState type="APEX_TRIGGER" setAll="true" />
-      <SFMetaTypeNamesState type="QUICK_ACTION" setAll="true" />
-      <SFMetaTypeNamesState type="PROFILE" setAll="true" />
-      <SFMetaTypeNamesState type="PERMISSION_SET" setAll="true" />
-      <SFMetaTypeNamesState type="APEX_COMPONENT" setAll="true" />
-      <SFMetaTypeNamesState type="SHARING_SET" setAll="true" />
-      <SFMetaTypeNamesState type="REPORT_TYPE" setAll="true" />
-      <SFMetaTypeNamesState type="HOME_PAGE_COMPONENT" setAll="true" />
-      <SFMetaTypeNamesState type="CUSTOM_OBJECT_TRANSLATION" setAll="true" />
-      <SFMetaTypeNamesState type="ROLE" setAll="true" />
-      <SFMetaTypeNamesState type="COMMUNITY_THEME_DEFINITION" setAll="true" />
-      <SFMetaTypeNamesState type="SETTINGS" setAll="true" />
-      <SFMetaTypeNamesState type="HOME_PAGE_LAYOUT" setAll="true" />
-      <SFMetaTypeNamesState type="SITE_DOT_COM" setAll="true" />
-      <SFMetaTypeNamesState type="CUSTOM_METADATA" setAll="true" />
-      <SFMetaTypeNamesState type="CUSTOM_LABELS" setAll="true" />
-      <SFMetaTypeNamesState type="PLATFORM_CACHE_PARTITION" setAll="true" />
-      <SFMetaTypeNamesState type="ASSIGNMENT_RULES" setAll="true" />
-      <SFMetaTypeNamesState type="FLOW_DEFINITION" setAll="true" />
-      <SFMetaTypeNamesState type="COMMUNITY" setAll="true" />
-      <SFMetaTypeNamesState type="COMMUNITY_TEMPLATE_DEFINITION" setAll="true" />
-      <SFMetaTypeNamesState type="WORKFLOW" setAll="true" />
       <SFMetaTypeNamesState type="APEX_PAGE" setAll="true" />
-      <SFMetaTypeNamesState type="PORTAL" setAll="true" />
-      <SFMetaTypeNamesState type="POST_TEMPLATE" setAll="true" />
+      <SFMetaTypeNamesState type="SHARING_RULES" setAll="true" />
+      <SFMetaTypeNamesState type="LIGHTNING_BUNDLE" setAll="true" />
+      <SFMetaTypeNamesState type="INSTALLED_PACKAGE" setAll="true" />
       <SFMetaTypeNamesState type="FLOW" setAll="true" />
       <SFMetaTypeNamesState type="GROUP" setAll="true" />
+      <SFMetaTypeNamesState type="CUSTOM_OBJECT_TRANSLATION" setAll="true" />
+      <SFMetaTypeNamesState type="ROLE" setAll="true" />
+      <SFMetaTypeNamesState type="CUSTOM_OBJECT" setAll="true" />
+      <SFMetaTypeNamesState type="APEX_COMPONENT" setAll="true" />
+      <SFMetaTypeNamesState type="REPORT" setAll="true" />
+      <SFMetaTypeNamesState type="APPROVAL_PROCESS" setAll="true" />
+      <SFMetaTypeNamesState type="GLOBAL_VALUE_SET" setAll="true" />
+      <SFMetaTypeNamesState type="CUSTOM_TAB" setAll="true" />
+      <SFMetaTypeNamesState type="PORTAL" setAll="true" />
+      <SFMetaTypeNamesState type="APEX_TEST_SUITE" setAll="true" />
+      <SFMetaTypeNamesState type="STATIC_RESOURCE" setAll="true" />
+      <SFMetaTypeNamesState type="REPORT_TYPE" setAll="true" />
+      <SFMetaTypeNamesState type="LAYOUT" setAll="true" />
+      <SFMetaTypeNamesState type="CUSTOM_METADATA" setAll="true" />
+      <SFMetaTypeNamesState type="CUSTOM_SITE" setAll="true" />
+      <SFMetaTypeNamesState type="HOME_PAGE_LAYOUT" setAll="true" />
+      <SFMetaTypeNamesState type="PERMISSION_SET" setAll="true" />
+      <SFMetaTypeNamesState type="CUSTOM_PERMISSION" setAll="true" />
+      <SFMetaTypeNamesState type="FLEXI_PAGE" setAll="true" />
+      <SFMetaTypeNamesState type="QUICK_ACTION" setAll="true" />
+      <SFMetaTypeNamesState type="QUEUE" setAll="true" />
+      <SFMetaTypeNamesState type="HOME_PAGE_COMPONENT" setAll="true" />
+      <SFMetaTypeNamesState type="COMMUNITY_THEME_DEFINITION" setAll="true" />
+      <SFMetaTypeNamesState type="CUSTOM_LABELS" setAll="true" />
+      <SFMetaTypeNamesState type="POST_TEMPLATE" setAll="true" />
+      <SFMetaTypeNamesState type="SETTINGS" setAll="true" />
+      <SFMetaTypeNamesState type="PLATFORM_CACHE_PARTITION" setAll="true" />
+      <SFMetaTypeNamesState type="CALL_CENTER" setAll="true" />
+      <SFMetaTypeNamesState type="PROFILE" setAll="true" />
+      <SFMetaTypeNamesState type="TRANSLATIONS" setAll="true" />
+      <SFMetaTypeNamesState type="COMMUNITY" setAll="true" />
+      <SFMetaTypeNamesState type="COMMUNITY_TEMPLATE_DEFINITION" setAll="true" />
+      <SFMetaTypeNamesState type="CUSTOM_APPLICATION" setAll="true" />
+      <SFMetaTypeNamesState type="ASSIGNMENT_RULES" setAll="true" />
+      <SFMetaTypeNamesState type="WORKFLOW" setAll="true" />
+      <SFMetaTypeNamesState type="FLOW_DEFINITION" setAll="true" />
+      <SFMetaTypeNamesState type="SITE_DOT_COM" setAll="true" />
+      <SFMetaTypeNamesState type="APEX_CLASS" setAll="true" />
+      <SFMetaTypeNamesState type="CONNECTED_APP" setAll="true" />
+      <SFMetaTypeNamesState type="SHARING_SET" setAll="true" />
+      <SFMetaTypeNamesState type="APEX_TRIGGER" setAll="true" />
     </type2Names>
     <components>
       <SFMetaComponentState type="ApexClass" chosen="true" isMajor="true" />
