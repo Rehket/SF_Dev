@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="salesforce.module" version="4">
+  <component name="ComponentSet">
+    <type2Names>
+      <SFMetaTypeNamesState type="QUEUE" setAll="true" />
+      <SFMetaTypeNamesState type="APEX_CLASS" setAll="true" />
+      <SFMetaTypeNamesState type="CUSTOM_APPLICATION" setAll="true" />
+      <SFMetaTypeNamesState type="INSTALLED_PACKAGE" setAll="true" />
+      <SFMetaTypeNamesState type="APPROVAL_PROCESS" setAll="true" />
+      <SFMetaTypeNamesState type="CALL_CENTER" setAll="true" />
+      <SFMetaTypeNamesState type="GLOBAL_VALUE_SET" setAll="true" />
+      <SFMetaTypeNamesState type="FLEXI_PAGE" setAll="true" />
+      <SFMetaTypeNamesState type="REPORT" setAll="true" />
+      <SFMetaTypeNamesState type="CUSTOM_OBJECT" setAll="true" />
+      <SFMetaTypeNamesState type="APEX_TEST_SUITE" setAll="true" />
+      <SFMetaTypeNamesState type="CUSTOM_SITE" setAll="true" />
+      <SFMetaTypeNamesState type="CUSTOM_PERMISSION" setAll="true" />
+      <SFMetaTypeNamesState type="CUSTOM_TAB" setAll="true" />
+      <SFMetaTypeNamesState type="LIGHTNING_BUNDLE" setAll="true" />
+      <SFMetaTypeNamesState type="LAYOUT" setAll="true" />
+      <SFMetaTypeNamesState type="STATIC_RESOURCE" setAll="true" />
+      <SFMetaTypeNamesState type="SHARING_RULES" setAll="true" />
+      <SFMetaTypeNamesState type="CONNECTED_APP" setAll="true" />
+      <SFMetaTypeNamesState type="TRANSLATIONS" setAll="true" />
+      <SFMetaTypeNamesState type="APEX_TRIGGER" setAll="true" />
+      <SFMetaTypeNamesState type="QUICK_ACTION" setAll="true" />
+      <SFMetaTypeNamesState type="PROFILE" setAll="true" />
+      <SFMetaTypeNamesState type="PERMISSION_SET" setAll="true" />
+      <SFMetaTypeNamesState type="APEX_COMPONENT" setAll="true" />
+      <SFMetaTypeNamesState type="SHARING_SET" setAll="true" />
+      <SFMetaTypeNamesState type="REPORT_TYPE" setAll="true" />
+      <SFMetaTypeNamesState type="HOME_PAGE_COMPONENT" setAll="true" />
+      <SFMetaTypeNamesState type="CUSTOM_OBJECT_TRANSLATION" setAll="true" />
+      <SFMetaTypeNamesState type="ROLE" setAll="true" />
+      <SFMetaTypeNamesState type="COMMUNITY_THEME_DEFINITION" setAll="true" />
+      <SFMetaTypeNamesState type="SETTINGS" setAll="true" />
+      <SFMetaTypeNamesState type="HOME_PAGE_LAYOUT" setAll="true" />
+      <SFMetaTypeNamesState type="SITE_DOT_COM" setAll="true" />
+      <SFMetaTypeNamesState type="CUSTOM_METADATA" setAll="true" />
+      <SFMetaTypeNamesState type="CUSTOM_LABELS" setAll="true" />
+      <SFMetaTypeNamesState type="PLATFORM_CACHE_PARTITION" setAll="true" />
+      <SFMetaTypeNamesState type="ASSIGNMENT_RULES" setAll="true" />
+      <SFMetaTypeNamesState type="FLOW_DEFINITION" setAll="true" />
+      <SFMetaTypeNamesState type="COMMUNITY" setAll="true" />
+      <SFMetaTypeNamesState type="COMMUNITY_TEMPLATE_DEFINITION" setAll="true" />
+      <SFMetaTypeNamesState type="WORKFLOW" setAll="true" />
+      <SFMetaTypeNamesState type="APEX_PAGE" setAll="true" />
+      <SFMetaTypeNamesState type="PORTAL" setAll="true" />
+      <SFMetaTypeNamesState type="POST_TEMPLATE" setAll="true" />
+      <SFMetaTypeNamesState type="FLOW" setAll="true" />
+      <SFMetaTypeNamesState type="GROUP" setAll="true" />
+    </type2Names>
+    <components>
+      <SFMetaComponentState type="ApexClass" chosen="true" isMajor="true" />
+      <SFMetaComponentState type="ApexComponent" chosen="true" isMajor="true" />
+      <SFMetaComponentState type="ApexPage" chosen="true" isMajor="true" />
+      <SFMetaComponentState type="ApexTrigger" chosen="true" isMajor="true" />
+      <SFMetaComponentState type="AuraDefinitionBundle" chosen="true" isMajor="true" />
+      <SFMetaComponentState type="CustomApplication" chosen="true" isMajor="true" />
+      <SFMetaComponentState type="CustomLabels" chosen="true" isMajor="true" />
+      <SFMetaComponentState type="CustomObject" chosen="true" isMajor="true" />
+      <SFMetaComponentState type="CustomTab" chosen="true" isMajor="true" />
+      <SFMetaComponentState type="Flow" chosen="true" isMajor="true" />
+      <SFMetaComponentState type="InstalledPackage" chosen="true" isMajor="true" />
+      <SFMetaComponentState type="Layout" chosen="true" isMajor="true" />
+      <SFMetaComponentState type="StaticResource" chosen="true" isMajor="true" />
+      <SFMetaComponentState type="Workflow" chosen="true" isMajor="true" />
+      <SFMetaComponentState type="ApexTestSuite" chosen="true" />
+      <SFMetaComponentState type="ApprovalProcess" chosen="true" />
+      <SFMetaComponentState type="AssignmentRules" chosen="true" />
+      <SFMetaComponentState type="CallCenter" chosen="true" />
+      <SFMetaComponentState type="Community" chosen="true" />
+      <SFMetaComponentState type="CommunityTemplateDefinition" chosen="true" />
+      <SFMetaComponentState type="CommunityThemeDefinition" chosen="true" />
+      <SFMetaComponentState type="ConnectedApp" chosen="true" />
+      <SFMetaComponentState type="CustomMetadata" chosen="true" />
+      <SFMetaComponentState type="CustomObjectTranslation" chosen="true" />
+      <SFMetaComponentState type="CustomPermission" chosen="true" />
+      <SFMetaComponentState type="CustomSite" chosen="true" />
+      <SFMetaComponentState type="FlexiPage" chosen="true" />
+      <SFMetaComponentState type="FlowDefinition" chosen="true" />
+      <SFMetaComponentState type="GlobalValueSet" chosen="true" />
+      <SFMetaComponentState type="Group" chosen="true" />
+      <SFMetaComponentState type="HomePageComponent" chosen="true" />
+      <SFMetaComponentState type="HomePageLayout" chosen="true" />
+      <SFMetaComponentState type="PermissionSet" chosen="true" />
+      <SFMetaComponentState type="PlatformCachePartition" chosen="true" />
+      <SFMetaComponentState type="Portal" chosen="true" />
+      <SFMetaComponentState type="PostTemplate" chosen="true" />
+      <SFMetaComponentState type="Profile" chosen="true" />
+      <SFMetaComponentState type="Queue" chosen="true" />
+      <SFMetaComponentState type="QuickAction" chosen="true" />
+      <SFMetaComponentState type="Report" chosen="true" />
+      <SFMetaComponentState type="ReportType" chosen="true" />
+      <SFMetaComponentState type="Role" chosen="true" />
+      <SFMetaComponentState type="Settings" chosen="true" />
+      <SFMetaComponentState type="SharingRules" chosen="true" />
+      <SFMetaComponentState type="SharingSet" chosen="true" />
+      <SFMetaComponentState type="SiteDotCom" chosen="true" />
+      <SFMetaComponentState type="Translations" chosen="true" />
+    </components>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
