@@ -60,3 +60,4 @@ fabric.properties
 .idea/
 /id_rsa*
 
+/Dockerfile
