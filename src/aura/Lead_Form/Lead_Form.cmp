@@ -1,0 +1,4 @@
+<aura:component access="GLOBAL" implements="flexipage:availableForAllPageTypes">
+	<aura:attribute name="InputName" type="String" default="FormGroup"/>
+    <aura:attribute name="isRequired" type="Boolean" default=""/>
+</aura:component>
